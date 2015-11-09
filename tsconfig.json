@@ -1,0 +1,7 @@
+{
+  "compileOnSave": false
+},
+"filesGlob": [
+       "./app/**/*.ts"
+   ],
+}
